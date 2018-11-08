@@ -1,0 +1,21 @@
+{
+  "name": "pnr-pii-filter",
+  "version": "0.0.0",
+  "description": "An app to filter PII info from PNR files",
+  "main": "index.js",
+  "repository": "",
+  "author": "GTAS Team",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "^4.16.3",
+    "faker": "^4.1.0",
+    "fs-extra": "^7.0.0",
+    "moment": "^2.22.2",
+    "mz": "^2.7.0",
+    "regex": "^0.1.1",
+    "replace-in-file": "^3.4.2",
+    "socket.io": "^2.1.1",
+    "verbal-expressions": "^0.3.0",
+    "yargs": "^12.0.2"
+  }
+}
